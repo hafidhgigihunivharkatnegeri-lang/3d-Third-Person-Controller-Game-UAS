@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 70cef653b47a89347b1625ee69655116
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - cam: {instanceID: 0}
+  - footstepAudioSource: {instanceID: 0}
+  - footstepClip: {fileID: 8300000, guid: a3194b8bbc96ef84fab1f98f4b7dae3e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
